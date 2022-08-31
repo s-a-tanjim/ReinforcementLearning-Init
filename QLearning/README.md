@@ -1,4 +1,4 @@
-## Reinforcement Learning Init
-1. QLearning
-2. QLearningWithCustomEnv
-3. DeepQN_Init
+## Q Learning Note
+1. QLearning [Implemented using OpenAI gym environment]
+2. QLearningWithCustomEnv [Implemented using custom environment]
+

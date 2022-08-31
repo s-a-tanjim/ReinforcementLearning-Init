@@ -1,1 +1,1 @@
-## ReinforcementLearning-Init
+## Reinforcement Learning Resources
